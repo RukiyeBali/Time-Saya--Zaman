@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\tİMER\tİMER\bin\Debug\tİMER.exe.config
+C:\Users\User\source\repos\tİMER\tİMER\bin\Debug\tİMER.exe
+C:\Users\User\source\repos\tİMER\tİMER\bin\Debug\tİMER.pdb
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.Form1.resources
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.Properties.Resources.resources
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.csproj.GenerateResource.cache
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.exe
+C:\Users\User\source\repos\tİMER\tİMER\obj\Debug\tİMER.pdb
